@@ -1,0 +1,18 @@
+Estrutura do Projeto
+
+controle-financeiro/
+│
+├── db.sql                 ← Script do banco de dados
+├── README.md              ← Instruções e descrição
+├── exportar_csv.php
+├── exportar_pdf.php
+├── dashboard.php
+├── db.php
+├── login.php
+├── logout.php
+├── nova_meta.php
+├── nova_transacao.php
+├── registrar.php
+├── fpdf/                  ← Biblioteca FPDF (coloque se puder)
+│   └── fpdf.php
+
